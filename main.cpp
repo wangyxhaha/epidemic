@@ -214,7 +214,7 @@ void move(){
 }
 
 void main_loop(){
-    for (;is_run();delay_fps(500)){
+    for (;is_run();delay_fps(5)){
         draw_map();
         move();
         ex+=0.001;

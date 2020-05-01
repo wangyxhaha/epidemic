@@ -1,1 +1,1 @@
-请看： http://localhost:4000/post/xiao-you-xi-gan-ran-mo-ni/
+请看： https://wangyxhaha.github.io/post/xiao-you-xi-gan-ran-mo-ni/
